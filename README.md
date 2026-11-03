@@ -64,16 +64,22 @@ plt.show()
 
 
 REGULAR DIFFERENCING:
+
+
 <img width="579" height="470" alt="image" src="https://github.com/user-attachments/assets/43b0a5e8-788b-4306-94c4-c20815257800" />
 
 
 SEASONAL ADJUSTMENT:
+
+
 <img width="572" height="470" alt="image" src="https://github.com/user-attachments/assets/82c19d76-00bc-4430-b026-0578524c65d8" />
 
 <img width="591" height="455" alt="image" src="https://github.com/user-attachments/assets/5ee0ce8d-09c3-4b70-8763-ab68ce9ba424" />
 
 
 LOG TRANSFORMATION:
+
+
 <img width="590" height="455" alt="image" src="https://github.com/user-attachments/assets/f0f8dcca-6a7c-4bc4-9ba9-ae7919d7b3ce" />
 
 <img width="586" height="455" alt="image" src="https://github.com/user-attachments/assets/be7fed43-6673-47a2-b035-fbe45cc190a5" />
